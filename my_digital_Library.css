@@ -58,8 +58,9 @@ body {
 .view_panel {
   background-color: white;
   border-radius: 10px;
-  padding: 50px 50px;
-  width: 50%;
+  padding: 250px 40px;
+  width: 80%;
+	height: 90%
   max-width: 900px;
   display: flex;
   flex-direction: column;
@@ -70,7 +71,8 @@ body {
   color: #888;
   font-weight: 600;
   letter-spacing: 1px;
-	margin: 10px;
+	margin: 15px;
+	font-size: 30px;
 }
 .Bookshelf_history {
   border: 1px solid #9dd1ff;
